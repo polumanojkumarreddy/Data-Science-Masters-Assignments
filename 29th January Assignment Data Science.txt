@@ -1,0 +1,59 @@
+1. Who developed Python Programming Language?
+Ans: Python Proggramming language was developed by 'Di Guido van Rossum'.
+ 
+2. Which type of Programming does Python support? 
+Ans: Python supports Object-Oriented Programming and Structured programming.
+
+3. Is Python case sensitive when dealing with identifiers? 
+Ans: Yes python is case sensitive ehen dealing with identifiers.
+  example: str="MANOJ"  and  STR="manoj" are both different variable names.
+
+4. What is the correct extension of the Python file? 
+Ans: ".py" is the extension of python file.
+
+5. Is Python code compiled or interpreted? 
+Ans: Python code is Interpreted.
+
+6. Name a few blocks of code used to define in Python language?
+Ans:  1. module.
+	   2. function body.
+          3. class defination.
+
+7. State a character used to give single-line comments in Python?
+Ans: '#' is the characer used to give single line comments in python.
+ 
+8. Mention functions which can help us to find the version of python that we are currently working on? 
+Ans: sys.version is used to find out version of python that we are currently working on.
+
+9. Python supports the creation of anonymous functions at runtime, using a construct called 
+Ans: lambda
+
+10. What does pip stand for python?
+Ans: pip stands for preferred installer program.
+ 
+11. Mention a few built-in functions in python? 
+Ans: 1.range()
+	  2.len()
+	  3.format()
+	  4.type()
+	  5.append()
+
+12. What is the maximum possible length of an identifier in Python? 
+Ans: An identifier can have a maximum length of 79 characters in Python.
+
+13. What are the benefits of using Python? 
+Ans: 1.Data Science
+	  2.Web Development
+	  3.Data Analytics
+	  4.Data Mining
+
+14. How is memory managed in Python?
+Ans: Memory in Python is managed by Python private heap space.
+
+15. How to install Python on Windows and set path variables?
+Ans:  After downloading python from its official site we must install it in the local machine.To add the path variables we need to 
+	 search for edit environment variables ,then there you will get user variables and system variables, in user variables section there 
+        is a new button click on it and give it a name and for its value give the path where the python is installed in the local machine.
+
+16. Is indentation required in python?
+Ans : Yes indentation is required in python. 
