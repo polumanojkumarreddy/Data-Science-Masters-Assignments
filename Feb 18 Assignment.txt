@@ -1,0 +1,47 @@
+Q1. What is an API? Give an example, where an API is used in real life.
+Ans: API is Application Programming Interface, which enables communication between two applications. It allows one application to access the services and functionalities of another application.
+Example: Google Maps API.
+APIs are used in many fiels like social media platforms ,e-commerce websites etc.
+
+Q2. Give advantages and disadvantages of using API.
+Ans: Advantages:
+	1. Increased efficiency
+	2. Flexibility
+	3. Interoperability
+	4. Scalability
+	5. Innovation
+    Disadvantages:
+	1. Security concerns
+	2. Dependency on third party services
+	3. Complexity
+	4.Lack of control
+	5. cost
+
+Q3.	What is a Web API? Differentiate between API and Web API.
+Ans: A web API is also known as web service that is accessed over the web using http protocols,it also allows the users to exchange data and functionality between to web applications.
+The main difference between an API and a Web API is that a Web API is accessed over the web using standard web protocols, while an API can be accessed through any type of interface, including a command-line interface, a graphical user interface, or a mobile application.
+
+Q4. Explain REST and SOAP Architecture. Mention shortcomings of SOAP.
+Ans: REST(Represtational state Transfer) is a simple and ligthweight architecture.It also uses HTTP methods(GET,POST,PUT,DELETE) to perform operations on web resources. REST emphasizes a stateless client-server architecture, where the server stores no client context information.
+
+ SOAP(Simple Object Access Protocol) is a messaging protocol that uses XML to encode messages and communicate betweeen web services.SOAP is typically used in enterprise environments.
+
+Shortcomings of SOAP are : Complexity,Performance,Scalability,Flexibility.
+
+Q5. Differentiate between REST and SOAP.
+Ans: In summary, REST and SOAP are two different architectures used to design web services. REST is simpler, lightweight, and easier to use, while SOAP is more complex, has built-in security features, and is typically used in enterprise environments where security and transactions are important. REST is becoming increasingly popular due to its simplicity and scalability, while SOAP is still widely used in enterprise environments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
